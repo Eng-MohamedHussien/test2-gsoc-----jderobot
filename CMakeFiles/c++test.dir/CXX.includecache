@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohamed/Desktop/c++ test/chainNode.cpp
+chainNode.h
+/home/mohamed/Desktop/c++ test/chainNode.h
+
+/home/mohamed/Desktop/c++ test/chainNode.h
+
+/home/mohamed/Desktop/c++ test/main.cpp
+iostream
+-
+chainNode.h
+/home/mohamed/Desktop/c++ test/chainNode.h
+fstream
+-
+list
+-
+string
+-
+iterator
+-
+sstream
+-
+
